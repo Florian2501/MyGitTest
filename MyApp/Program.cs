@@ -13,6 +13,7 @@ namespace MyApp
             System.Console.WriteLine("Diese Line aber eigentlich auch...");
             System.Console.WriteLine("Und was passiert jetzt?");
             printHello();
+            PrintClass.printSomething();
         }
 
         public static void printHello(){
